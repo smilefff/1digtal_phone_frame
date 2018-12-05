@@ -1,0 +1,10 @@
+---- bmp_get Matches (3 in 3 files) ----
+Get_bmp.c (f:\windows_share\3driver\1digtal_phone_frame\display):int bmp_get(struct bmp_info *pPic)
+Get_bmp.h (f:\windows_share\3driver\1digtal_phone_frame\include):int bmp_get(struct bmp_info *pPic);
+Main.c (f:\windows_share\3driver\1digtal_phone_frame):	bmp_get(&pPic);
+---- bmp_info Matches (5 in 4 files) ----
+Config.h (f:\windows_share\3driver\1digtal_phone_frame\include):typedef struct bmp_info
+Config.h (f:\windows_share\3driver\1digtal_phone_frame\include):}bmp_info;
+Get_bmp.c (f:\windows_share\3driver\1digtal_phone_frame\display):int bmp_get(struct bmp_info *pPic)
+Get_bmp.h (f:\windows_share\3driver\1digtal_phone_frame\include):int bmp_get(struct bmp_info *pPic);
+Main.c (f:\windows_share\3driver\1digtal_phone_frame):struct bmp_info pPicure = {0};
