@@ -6,4 +6,5 @@ Git is free software.
 
 add Git modify
 
+add Git remote
 
